@@ -73,6 +73,8 @@ public class TemperatureConverter {
             // Print the converted temperature value
             System.out.println(inputValue);
 
+            reader.close();
+
         }
 
     public static float fToC(float fVal) {
