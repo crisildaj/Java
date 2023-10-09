@@ -20,6 +20,9 @@
 			<color>Red</color>
 		</car>
 	</owner>
+
+	<!-- Element node = owner, with attribute name of Jane -->
+	<!-- Name = attribute node -->
 	<owner name="Jane">
 		<car vin="LLOKAJSS55548563">
 			<make>Nissan</make>
@@ -28,10 +31,20 @@
 			<color>Green</color>
 		</car>
 		<car vin="OOKINAFS98111001">
+			<!-- Text nodes -->
 			<make>Dodge</make>
 			<model>Challenger</model>
 			<year>2013</year>
 			<color>Red</color>
+			<!-- Text nodes  -->
 		</car>
 	</owner>
 </cars>
+
+<!-- Element has a start and end tag with information in it -->
+
+<!-- Information will be returned in nodes -->
+
+<!-- All elements are nodes but not all nodes are elements -->
+
+<!-- Elements = cars, owner and car -->
