@@ -19,18 +19,24 @@ public class ReadingXML {
             DocumentBuilder docBuilder = factory.newDocumentBuilder();
             dom = docBuilder.parse("cars.xml");
             
-            // Now, print out all of Jane's cars...
+            // AIM: print out all of Jane's cars
+
+            // Get the root (outermost) element of the XML document --> <cars>
             Element doc = dom.getDocumentElement();
 
-            //Acquire both Billy's and Jane's - all the owner elements first
+            //Acquire both Billy's and Jane's cars - all the owner elements first
             NodeList ownersList = doc.getElementsByTagName("owner");
 
+            // Iterate through the list of owners
             for(int i = 0; i < ownersList.getLength(); i++) {
                 Element owner = (Element)ownersList.item(i);
 
+                // If the owner's name attribute is Jane 
                 if(owner.getAttribute("name").equals("Jane")) {
+                    // Get the car element
                     NodeList carsList = owner.getElementsByTagName("car");
 
+                    // Call the PrintCars method and print out the details
                     PrintCars(carsList);
                 }
             }
@@ -50,9 +56,16 @@ public class ReadingXML {
         }
     }
 
-    public static void(NodeList cars) {
+    public static void PrintCars (NodeList cars) {
         for (int i = 0; i < cars.getLength(); i++) {
-            Element car = (Element)carsList.item(i);
+            Element carNode = (Element)cars.item(i);
+            Car carObj = new Car();
+            carObj.color = carNode.getElementsByTagName("color").item(0).getTextContent();
+            carObj.make = carNode.getElementsByTagName("make").item(0).getTextContent();
+            carObj.model = carNode.getElementsByTagName("model").item(0).getTextContent();
+            carObj.year = Integer.parseInt(carNode.getElementsByTagName("year").item(0).getTextContent());
+            carObj.vin = carNode.getAttribute("vin");
+            System.out.println(carObj.toString());
         }
     }
 }
