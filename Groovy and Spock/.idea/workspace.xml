@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe8a134-d439-443f-8a07-9317e0ec2573" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Cyberu - Java Beginners/File IO/WritingToFiles/target/classes/.netbeans_automatic_build" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cyberu - Java Beginners/File IO/WritingToFiles/target/classes/com/mycompany/writingtofiles/WritingToFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cyberu - Java Beginners/File IO/WritingToFiles/target/classes/com/mycompany/writingtofiles/WritingToFiles.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cyberu - Java Beginners/File IO/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Cyberu - Java Beginners/File IO/out.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedIn Learning - Learning Groovy/hello-world/src/main/groovy/Drop.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn Learning - Learning Groovy/Ex_Files_Learning_Groovy/Exercise Files/02_07-start/src/Main.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn Learning - Learning Groovy/Ex_Files_Learning_Groovy/Exercise Files/02_07-start/src/Main.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinkedIn Learning - Learning Groovy/Ex_Files_Learning_Groovy/Exercise Files/03_01-start/src/Person.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn Learning - Learning Groovy/Ex_Files_Learning_Groovy/Exercise Files/03_01-start/src/Person.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../UnitTesting/.classpath" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../UnitTesting/.project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../UnitTesting/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
@@ -23,22 +23,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2WcfKfRmjhcRplILt6TU55HyRDp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/cjo30/Documents/Java/Groovy and Spock"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/cjo30/Documents/Java/Groovy and Spock&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

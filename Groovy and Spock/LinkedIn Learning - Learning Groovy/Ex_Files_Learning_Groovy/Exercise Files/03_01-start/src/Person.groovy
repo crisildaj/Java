@@ -1,13 +1,17 @@
 // Declare convenience annotations on class-level
 class Person {
+    // Declare instance variables
     String firstName
     String lastName
     int age
 
+    // Default constructor
     Person() {
     }
 
+    // Constructor with three parameters
     Person(String firstName, String lastName, int age) {
+        // Initialise instance variables
         this.firstName = firstName
         this.lastName = lastName
         this.age = age
