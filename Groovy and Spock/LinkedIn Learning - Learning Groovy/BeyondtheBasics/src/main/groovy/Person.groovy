@@ -8,7 +8,7 @@ import groovy.transform.TupleConstructor
 //@ToString
 //@EqualsAndHashCode
 //@TupleConstructor
-class Person {
+class Person implements Serializable {
     // Declare instance variables
     String firstName
     String lastName
