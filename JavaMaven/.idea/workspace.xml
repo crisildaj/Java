@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="145ba95e-6537-4392-bb8b-c995c5a52f0a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Cyberu - Java Beginners/.idea/Cyberu - Java Beginners.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Groovy and Spock/StartOver/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Groovy and Spock/codewars/Accum/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Groovy and Spock/codewars/Accum/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Groovy and Spock/codewars/Accum/src/main/groovy/Accum.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Groovy and Spock/codewars/src/main/groovy/Negative.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codewars/Printer Errors/Printer Errors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cyberu - Java Beginners/Data Structures /ChessBoard/target/classes/com/mycompany/chessboard/ChessBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cyberu - Java Beginners/Data Structures /ChessBoard/target/classes/com/mycompany/chessboard/ChessBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cyberu - Java Beginners/File IO/WritingToFiles/target/classes/com/mycompany/writingtofiles/WritingToFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cyberu - Java Beginners/File IO/WritingToFiles/target/classes/com/mycompany/writingtofiles/WritingToFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cyberu - Java Beginners/Functions/TemperatureConverter/target/classes/com/mycompany/temperatureconverter/TemperatureConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Cyberu - Java Beginners/Functions/TemperatureConverter/target/classes/com/mycompany/temperatureconverter/TemperatureConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Groovy and Spock/StartOver/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Groovy and Spock/StartOver/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Groovy and Spock/StartOver/src/main/groovy/org/example/Main.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../Groovy and Spock/StartOver/src/main/groovy/org/example/Main.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Groovy and Spock/codewars/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Groovy and Spock/codewars/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Groovy and Spock/codewars/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Groovy and Spock/codewars/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/.settings/org.eclipse.jdt.apt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/src/main/java/com/mycompany/unittesting/UnitTestDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UnitTesting/src/test/java/com/mycompany/unittesting/UnitTestDemoTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2XWXVFvxAPn4MLk78kqa1At6d27" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="145ba95e-6537-4392-bb8b-c995c5a52f0a" name="Changes" comment="" />
+      <created>1698745830281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698745830281</updated>
+    </task>
+    <servers />
+  </component>
+</project>
